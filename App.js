@@ -4,8 +4,6 @@ import Island from "./components/Island";
 import { useFonts } from 'expo-font';
 import {Poppins_400Regular, Poppins_700Bold,} from '@expo-google-fonts/poppins';
 
-// implement ScrollView to make the list of movies scrollable
-
 
 
 export default function App() {
